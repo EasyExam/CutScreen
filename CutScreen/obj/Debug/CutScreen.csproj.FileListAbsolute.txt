@@ -1,0 +1,10 @@
+E:\C#\Project\CutScreen\CutScreen\obj\Debug\CutScreen.csprojAssemblyReference.cache
+E:\C#\Project\CutScreen\CutScreen\obj\Debug\CutScreen.MainForm.resources
+E:\C#\Project\CutScreen\CutScreen\obj\Debug\CutScreen.csproj.GenerateResource.cache
+E:\C#\Project\CutScreen\CutScreen\obj\Debug\CutScreen.csproj.CoreCompileInputs.cache
+E:\C#\Project\CutScreen\CutScreen\bin\Debug\CutScreen.exe.config
+E:\C#\Project\CutScreen\CutScreen\bin\Debug\CutScreen.exe
+E:\C#\Project\CutScreen\CutScreen\bin\Debug\CutScreen.pdb
+E:\C#\Project\CutScreen\CutScreen\obj\Debug\CutScreen.Properties.Resources.resources
+E:\C#\Project\CutScreen\CutScreen\obj\Debug\CutScreen.exe
+E:\C#\Project\CutScreen\CutScreen\obj\Debug\CutScreen.pdb

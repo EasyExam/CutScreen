@@ -1,0 +1,10 @@
+E:\C#\CSEx\AllWinFormEx\截屏\截屏\bin\Debug\截屏.exe.config
+E:\C#\CSEx\AllWinFormEx\截屏\截屏\bin\Debug\截屏.exe
+E:\C#\CSEx\AllWinFormEx\截屏\截屏\bin\Debug\截屏.pdb
+E:\C#\CSEx\AllWinFormEx\截屏\截屏\obj\Debug\截屏.csprojAssemblyReference.cache
+E:\C#\CSEx\AllWinFormEx\截屏\截屏\obj\Debug\截屏.Form1.resources
+E:\C#\CSEx\AllWinFormEx\截屏\截屏\obj\Debug\截屏.Properties.Resources.resources
+E:\C#\CSEx\AllWinFormEx\截屏\截屏\obj\Debug\截屏.csproj.GenerateResource.cache
+E:\C#\CSEx\AllWinFormEx\截屏\截屏\obj\Debug\截屏.csproj.CoreCompileInputs.cache
+E:\C#\CSEx\AllWinFormEx\截屏\截屏\obj\Debug\截屏.exe
+E:\C#\CSEx\AllWinFormEx\截屏\截屏\obj\Debug\截屏.pdb
